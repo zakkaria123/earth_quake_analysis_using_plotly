@@ -28,5 +28,4 @@ def map_plot():
 			'style':'stamen-terrain',
 			'center':{'lat':-20,'lon':-20}})
 	fig.show()
-  
 map_plot()
