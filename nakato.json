@@ -1,0 +1,581 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1624424640000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 14
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.8,
+                "place": "10 km WSW of Mala, Peru",
+                "time": 1624416858922,
+                "updated": 1624424411008,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000efd5",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000efd5.geojson",
+                "felt": 158,
+                "cdi": 6.6,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 622,
+                "net": "us",
+                "code": "7000efd5",
+                "ids": ",us7000efd5,",
+                "sources": ",us,",
+                "types": ",dyfi,moment-tensor,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.705,
+                "rms": 0.84,
+                "gap": 49,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.8 - 10 km WSW of Mala, Peru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7208,
+                    -12.6874,
+                    50.58
+                ]
+            },
+            "id": "us7000efd5"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "Kermadec Islands, New Zealand",
+                "time": 1624208748131,
+                "updated": 1624302983186,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eeq4",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000eeq4.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": 3.681,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 650,
+                "net": "us",
+                "code": "7000eeq4",
+                "ids": ",us7000eeq4,pt21171000,at00qv0fhk,",
+                "sources": ",us,pt,at,",
+                "types": ",impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 8.01,
+                "rms": 1.06,
+                "gap": 22,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.5 - Kermadec Islands, New Zealand"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -177.8117,
+                    -30.2108,
+                    10
+                ]
+            },
+            "id": "us7000eeq4"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.82,
+                "place": "3 km W of Bloomingdale, Indiana",
+                "time": 1623957482410,
+                "updated": 1624394921200,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60344372",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nm60344372.geojson",
+                "felt": 4179,
+                "cdi": 5,
+                "mmi": 4.611,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 724,
+                "net": "nm",
+                "code": "60344372",
+                "ids": ",nm60344372,us7000edxc,",
+                "sources": ",nm,us,",
+                "types": ",dyfi,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 21,
+                "dmin": 0.5669,
+                "rms": 0.34,
+                "gap": 89,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 3.8 - 3 km W of Bloomingdale, Indiana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.2866667,
+                    39.8305,
+                    6.26
+                ]
+            },
+            "id": "nm60344372"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "19 km ESE of Bugasong, Philippines",
+                "time": 1623066598291,
+                "updated": 1624271705787,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000eapf",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000eapf.geojson",
+                "felt": 736,
+                "cdi": 5.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 767,
+                "net": "us",
+                "code": "7000eapf",
+                "ids": ",us7000eapf,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 6.819,
+                "rms": 1.04,
+                "gap": 129,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - 19 km ESE of Bugasong, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.218,
+                    10.9551,
+                    10
+                ]
+            },
+            "id": "us7000eapf"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.25,
+                "place": "11km W of Calipatria, CA",
+                "time": 1622915758820,
+                "updated": 1624298760528,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39919392",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39919392.geojson",
+                "felt": 1228,
+                "cdi": 5.7,
+                "mmi": 6.319,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 994,
+                "net": "ci",
+                "code": "39919392",
+                "ids": ",ew1622915759,ci39919392,us7000ea2t,",
+                "sources": ",ew,ci,us,",
+                "types": ",associate,dyfi,focal-mechanism,ground-failure,losspager,moment-tensor,nearby-cities,oaf,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 84,
+                "dmin": 0.04069,
+                "rms": 0.23,
+                "gap": 33,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 5.3 - 11km W of Calipatria, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.6348333,
+                    33.14,
+                    5.78
+                ]
+            },
+            "id": "ci39919392"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.1,
+                "place": "9 km ENE of Anoka, Nebraska",
+                "time": 1622847040491,
+                "updated": 1624032320497,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e9v5",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000e9v5.geojson",
+                "felt": 904,
+                "cdi": 6.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 763,
+                "net": "us",
+                "code": "7000e9v5",
+                "ids": ",us7000e9v5,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.725,
+                "rms": 0.48,
+                "gap": 95,
+                "magType": "mb_lg",
+                "type": "earthquake",
+                "title": "M 3.1 - 9 km ENE of Anoka, Nebraska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.7287,
+                    42.9962,
+                    5
+                ]
+            },
+            "id": "us7000e9v5"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.7,
+                "place": "10 km NE of Anoka, Nebraska",
+                "time": 1622820300768,
+                "updated": 1624271039266,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e9qy",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000e9qy.geojson",
+                "felt": 1152,
+                "cdi": 6.9,
+                "mmi": 4.538,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 901,
+                "net": "us",
+                "code": "7000e9qy",
+                "ids": ",us7000e9qy,",
+                "sources": ",us,",
+                "types": ",dyfi,general-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.725,
+                "rms": 0.69,
+                "gap": 51,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 3.7 - 10 km NE of Anoka, Nebraska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.7336,
+                    43.0017,
+                    5
+                ]
+            },
+            "id": "us7000e9qy"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "143 km W of Gold Beach, Oregon",
+                "time": 1622794620888,
+                "updated": 1624271007665,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e9mr",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000e9mr.geojson",
+                "felt": 1051,
+                "cdi": 6.4,
+                "mmi": 3.764,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1176,
+                "net": "us",
+                "code": "7000e9mr",
+                "ids": ",at00qu64cd,us7000e9mr,",
+                "sources": ",at,us,",
+                "types": ",dyfi,general-text,ground-failure,impact-link,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.663,
+                "rms": 0.91,
+                "gap": 74,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.9 - 143 km W of Gold Beach, Oregon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -126.1498,
+                    42.2535,
+                    14.49
+                ]
+            },
+            "id": "us7000e9mr"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "off the coast of Oregon",
+                "time": 1622793163512,
+                "updated": 1624271843992,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e9mg",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000e9mg.geojson",
+                "felt": 702,
+                "cdi": 6.7,
+                "mmi": 3.712,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1006,
+                "net": "us",
+                "code": "7000e9mg",
+                "ids": ",at00qu637v,us7000e9mg,",
+                "sources": ",at,us,",
+                "types": ",dyfi,general-text,ground-failure,impact-link,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.748,
+                "rms": 0.82,
+                "gap": 75,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.9 - off the coast of Oregon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -126.2897,
+                    42.288,
+                    16.57
+                ]
+            },
+            "id": "us7000e9mg"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.1,
+                "place": "19 km S of Carora, Venezuela",
+                "time": 1622740652180,
+                "updated": 1624271690269,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e9hi",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000e9hi.geojson",
+                "felt": 1041,
+                "cdi": 8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1200,
+                "net": "us",
+                "code": "7000e9hi",
+                "ids": ",us7000e9hi,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.232,
+                "rms": 0.57,
+                "gap": 26,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 5.1 - 19 km S of Carora, Venezuela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.0634,
+                    9.9933,
+                    10
+                ]
+            },
+            "id": "us7000e9hi"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.8,
+                "place": "10 km SSW of Kam\u00c3\u00a1rai, Greece",
+                "time": 1622732773303,
+                "updated": 1624270884619,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e9ej",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000e9ej.geojson",
+                "felt": 1123,
+                "cdi": 5.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 934,
+                "net": "us",
+                "code": "7000e9ej",
+                "ids": ",us7000e9ej,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.859,
+                "rms": 0.8,
+                "gap": 41,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.8 - 10 km SSW of Kam\u00c3\u00a1rai, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9409,
+                    38.2176,
+                    64.04
+                ]
+            },
+            "id": "us7000e9ej"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.1,
+                "place": "73 km N of Chickaloon, Alaska",
+                "time": 1622444395581,
+                "updated": 1624345798723,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0216xu2rod",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0216xu2rod.geojson",
+                "felt": 4799,
+                "cdi": 8.6,
+                "mmi": 5.918,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1432,
+                "net": "ak",
+                "code": "0216xu2rod",
+                "ids": ",at00qtym3v,us6000eg52,ak0216xu2rod,",
+                "sources": ",at,us,ak,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,oaf,origin,phase-data,shakemap,trump-shakemap,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.87,
+                "gap": null,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.1 - 73 km N of Chickaloon, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -148.2512,
+                    62.4492,
+                    44
+                ]
+            },
+            "id": "ak0216xu2rod"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.15,
+                "place": "10km SE of Dollar Point, CA",
+                "time": 1622215521840,
+                "updated": 1623362587984,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73566711",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73566711.geojson",
+                "felt": 1710,
+                "cdi": 4.1,
+                "mmi": 4.231,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 675,
+                "net": "nc",
+                "code": "73566711",
+                "ids": ",nn00808315,ew1622215521,nc73566711,us6000efj5,",
+                "sources": ",nn,ew,nc,us,",
+                "types": ",dyfi,focal-mechanism,losspager,moment-tensor,nearby-cities,oaf,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 37,
+                "dmin": 0.1141,
+                "rms": 0.11,
+                "gap": 67,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 4.2 - 10km SE of Dollar Point, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.0286667,
+                    39.1221667,
+                    7.02
+                ]
+            },
+            "id": "nc73566711"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "12 km NNW of Lop\u00c4\u0192tari, Romania",
+                "time": 1621978237190,
+                "updated": 1624271777281,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e68e",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000e68e.geojson",
+                "felt": 1571,
+                "cdi": 5.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 864,
+                "net": "us",
+                "code": "7000e68e",
+                "ids": ",us7000e68e,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.417,
+                "rms": 1.21,
+                "gap": 18,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 12 km NNW of Lop\u00c4\u0192tari, Romania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5231,
+                    45.587,
+                    127.97
+                ]
+            },
+            "id": "us7000e68e"
+        }
+    ],
+    "bbox": [
+        -177.8117,
+        -30.2108,
+        5,
+        122.218,
+        62.4492,
+        127.97
+    ]
+}
